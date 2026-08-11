@@ -1,0 +1,23 @@
+{
+  "name": "10-universal-business-objectives",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Andrew Luxem"
+  },
+  "description": "Maps supplied work to ten business-objective lenses without claiming unsupported impact. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "plugins": [
+    {
+      "name": "10-universal-business-objectives",
+      "version": "1.0.0",
+      "source": "./",
+      "description": "Maps supplied work to ten business-objective lenses without claiming unsupported impact. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+      "category": "productivity",
+      "tags": [
+        "agent-skills",
+        "claude-code",
+        "business-objectives",
+        "objective-mapping"
+      ]
+    }
+  ]
+}
