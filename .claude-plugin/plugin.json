@@ -1,0 +1,17 @@
+{
+  "name": "10-universal-business-objectives",
+  "version": "1.0.0",
+  "description": "Maps supplied work to ten business-objective lenses without claiming unsupported impact. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "author": {
+    "name": "Andrew Luxem"
+  },
+  "homepage": "https://github.com/andrewluxem/10-universal-business-objectives",
+  "repository": "https://github.com/andrewluxem/10-universal-business-objectives",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "claude-code",
+    "business-objectives",
+    "objective-mapping"
+  ]
+}
